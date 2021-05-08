@@ -3,6 +3,7 @@
 # How To Use
    - enter an ID, NOT a username. An ID is the group of numbers you see when going on roblox.
       - eg. 1957038621
+      - <img src="url.JPG">
    - wait for the results to load
    - <b>if this step takes longer than 2 minutes, there may be an error so you will have to either start again or contact me on github/roblox<b>
 
