@@ -1,7 +1,7 @@
 # Roblox-Inventory-Shopper
 
 # How To Use
-   - enter an ID, NOT a username. An ID is the group of numbers you see when going on roblox.
+   - enter an ID, NOT a username. An ID is the group of numbers you see when going on a roblox link.
       - eg. 1957038621
       - <img src="url.JPG">
    - wait for the results to load
