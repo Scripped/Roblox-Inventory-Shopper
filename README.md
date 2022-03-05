@@ -1,5 +1,5 @@
 # Roblox-Inventory-Shopper
-# NOTICE - THIS VERSION IS DEPRECATED, I WILL MAKE A VERSION 2 (MAR 5 2022)
+# NOTICE - THIS VERSION IS DEPRECATED, I WILL MAKE A VERSION 3 (MAR 5 2022)
 
 # How To Use
    - enter an ID, NOT a username. An ID is the group of numbers you see when going on a roblox link.
