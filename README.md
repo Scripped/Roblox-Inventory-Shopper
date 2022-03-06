@@ -1,22 +1,64 @@
-# Roblox-Inventory-Shopper
-# NOTICE - THIS VERSION IS DEPRECATED, I WILL MAKE A VERSION 3 (MAR 5 2022)
+# Roblox Inventory Shopper
+#### AKA LookStealer
+Displays what a ROBLOX user is currently wearing, as well as the urls of these items.
 
-# How To Use
-   - enter an ID, NOT a username. An ID is the group of numbers you see when going on a roblox link.
-      - eg. 1957038621
-      - <img src="url.JPG">
-   - wait for the results to load
-   - <b>if this step takes longer than 2 minutes, there may be an error so you will have to either start again or contact me on github/roblox</b>
+## Installation
 
-# Contact
-   - roblox: https://www.roblox.com/users/1957038621/profile
-   - github: https://github.com/scripped
+Use npm i roblox-inventory-shopper to install LookStealer.
+
+```bash
+npm i roblox-inventory-shopper
+```
+
+## Usage
+
+```bash
+# FOR IDs
+shop 1957038621
+
+[X] You entered a number, is this a URL (u) or an ID (i):
+
+# Here, you enter 'i' (no speech marks)
+# All the results should load, then
+
+[X] How do you want to view these links?
+[X]
+    [1]. Open all links
+    [2]. Choose links to open
+    [3]. Choose links to copy to clipboard
+    [4]. Save to text files
+    [5]. Close the program
+
+# Pick your preferred choice.
 
 
-# Support me
-   - purchase my donation gamepasses: https://www.roblox.com/users/1957038621/profile
+# FOR Usernames
+shop scr1pp3d
 
-<h3>Super sorry that the file is so large, I've tried everything to make it smaller but nothing seems to work.</h3>
+# All the results should load, then
+
+[X] How do you want to view these links?
+[X]
+    [1]. Open all links
+    [2]. Choose links to open
+    [3]. Choose links to copy to clipboard
+    [4]. Save to text files
+    [5]. Close the program
+
+# Pick your preferred choice.
+```
+
+## Contributing
+Open an issue to discuss what you would like to change.
+
+## Contact
+roblox: https://www.roblox.com/users/1957038621/profile
+github: https://github.com/scripped
+
+## Support me
+purchase my donation gamepasses: https://www.roblox.com/users/1957038621/profile
+
 
 <hr>
-The 'Roblox Inventory Shopper V1' created by Scripped is a web scraper that displays information available to the public in a condensed form. This does not break any of ROBLOX's TOS.
+
+The 'Roblox Inventory Shopper V4' created by Scripped simply gets the information from ROBLOX's public API that displays information available to the public. This does not break any of ROBLOX's TOS.
