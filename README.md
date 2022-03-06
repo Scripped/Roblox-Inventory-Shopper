@@ -2,6 +2,8 @@
 #### AKA LookStealer
 Displays what a ROBLOX user is currently wearing, as well as the urls of these items.
 
+YALL VERSION 1 AND 2 ARE DEPRECATED, DON'T USE IT!!! ONLY USER [VERSION 4](https://www.npmjs.com/package/roblox-inventory-shopper), SORRY FOR THE INCONVENIENCE. VERSION 4 IS MUCH FASTER AS WELL
+
 ## Installation
 
 Use npm i roblox-inventory-shopper to install LookStealer.
